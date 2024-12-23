@@ -1,6 +1,7 @@
 #python-3.11.7
 Flask
 scikit-learn
+#scikit-learn==1.0.2
 gunicorn
 numpy
 pandas 
